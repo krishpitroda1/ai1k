@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.6521ef45.css",
-    "main.js": "./static/js/main.d2700a10.js",
+    "main.css": "./static/css/main.6d3bf29c.css",
+    "main.js": "./static/js/main.a9a972a0.js",
     "static/js/453.1653bba9.chunk.js": "./static/js/453.1653bba9.chunk.js",
     "static/media/videobg2.mp4": "./static/media/videobg2.0b7b961421bf680af5d9.mp4",
     "static/media/videobg.mp4": "./static/media/videobg.2d6797388b886b9147e2.mp4",
@@ -17,6 +17,7 @@
     "static/media/mentoring.jpeg": "./static/media/mentoring.cf7013b0fb699ade74b2.jpeg",
     "static/media/img2.jpg": "./static/media/img2.b578a85d32b483d74bf5.jpg",
     "static/media/about.jpeg": "./static/media/about.413d13b01b0eb0fe885e.jpeg",
+    "static/media/home1.jpeg": "./static/media/home1.289cb73d6e77f5a93b40.jpeg",
     "static/media/health.jpeg": "./static/media/health.36016a93c7e9fca027b4.jpeg",
     "static/media/consult.jpeg": "./static/media/consult.359ecb556b95935c2b34.jpeg",
     "static/media/logo.jpg": "./static/media/logo.733c2fd13d3c0c524f8f.jpg",
@@ -29,12 +30,12 @@
     "static/media/people2.jpeg": "./static/media/people2.4f763166e2ab18fe8a63.jpeg",
     "static/media/people1.jpeg": "./static/media/people1.a5411b432f61f92ccf1e.jpeg",
     "index.html": "./index.html",
-    "main.6521ef45.css.map": "./static/css/main.6521ef45.css.map",
-    "main.d2700a10.js.map": "./static/js/main.d2700a10.js.map",
+    "main.6d3bf29c.css.map": "./static/css/main.6d3bf29c.css.map",
+    "main.a9a972a0.js.map": "./static/js/main.a9a972a0.js.map",
     "453.1653bba9.chunk.js.map": "./static/js/453.1653bba9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6521ef45.css",
-    "static/js/main.d2700a10.js"
+    "static/css/main.6d3bf29c.css",
+    "static/js/main.a9a972a0.js"
   ]
 }
