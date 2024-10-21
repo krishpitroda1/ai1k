@@ -1,20 +1,40 @@
 {
   "files": {
-    "main.css": "./static/css/main.9451b0bf.css",
-    "main.js": "./static/js/main.995a1996.js",
+    "main.css": "./static/css/main.6521ef45.css",
+    "main.js": "./static/js/main.d2700a10.js",
     "static/js/453.1653bba9.chunk.js": "./static/js/453.1653bba9.chunk.js",
+    "static/media/videobg2.mp4": "./static/media/videobg2.0b7b961421bf680af5d9.mp4",
     "static/media/videobg.mp4": "./static/media/videobg.2d6797388b886b9147e2.mp4",
+    "static/media/videobg1.mp4": "./static/media/videobg1.6ad888027ccb21daffb9.mp4",
+    "static/media/event2.jpg": "./static/media/event2.f4e98f94f7244c7329fa.jpg",
     "static/media/one.jpg": "./static/media/one.81b483950bc33da2038e.jpg",
+    "static/media/con2.jpeg": "./static/media/con2.c7ffb7fb04ef3a3f3051.jpeg",
+    "static/media/csr.jpeg": "./static/media/csr.fa7346dc092cf74736a2.jpeg",
+    "static/media/student.jpeg": "./static/media/student.d4be5e6039906ae7cc60.jpeg",
+    "static/media/collage.jpeg": "./static/media/collage.ebe5e459717ea36826c3.jpeg",
+    "static/media/tpo.jpeg": "./static/media/tpo.89fa9e9c65f6ade4aa88.jpeg",
+    "static/media/ai.jpeg": "./static/media/ai.7bff3e4c2869c7621c07.jpeg",
+    "static/media/mentoring.jpeg": "./static/media/mentoring.cf7013b0fb699ade74b2.jpeg",
+    "static/media/img2.jpg": "./static/media/img2.b578a85d32b483d74bf5.jpg",
+    "static/media/about.jpeg": "./static/media/about.413d13b01b0eb0fe885e.jpeg",
+    "static/media/health.jpeg": "./static/media/health.36016a93c7e9fca027b4.jpeg",
+    "static/media/consult.jpeg": "./static/media/consult.359ecb556b95935c2b34.jpeg",
     "static/media/logo.jpg": "./static/media/logo.733c2fd13d3c0c524f8f.jpg",
-    "static/media/ab.jpg": "./static/media/ab.b58663c49736e1bbc004.jpg",
+    "static/media/event6.jpg": "./static/media/event6.6dacb6a406b0638295d8.jpg",
+    "static/media/event4.jpg": "./static/media/event4.8aea8ddb0a5736a5e10b.jpg",
+    "static/media/event1.jpg": "./static/media/event1.51efe5dcd5a6257c8c69.jpg",
+    "static/media/event3.jpg": "./static/media/event3.fd1403b7807b7c2876ce.jpg",
+    "static/media/event7.jpg": "./static/media/event7.36ca78b83537651a8ed1.jpg",
     "static/media/mail.png": "./static/media/mail.79b3e98131a972a6d554.png",
+    "static/media/people2.jpeg": "./static/media/people2.4f763166e2ab18fe8a63.jpeg",
+    "static/media/people1.jpeg": "./static/media/people1.a5411b432f61f92ccf1e.jpeg",
     "index.html": "./index.html",
-    "main.9451b0bf.css.map": "./static/css/main.9451b0bf.css.map",
-    "main.995a1996.js.map": "./static/js/main.995a1996.js.map",
+    "main.6521ef45.css.map": "./static/css/main.6521ef45.css.map",
+    "main.d2700a10.js.map": "./static/js/main.d2700a10.js.map",
     "453.1653bba9.chunk.js.map": "./static/js/453.1653bba9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9451b0bf.css",
-    "static/js/main.995a1996.js"
+    "static/css/main.6521ef45.css",
+    "static/js/main.d2700a10.js"
   ]
 }
